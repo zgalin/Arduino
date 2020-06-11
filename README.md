@@ -7,7 +7,7 @@ Ukaz za ugasnitev ima prednost pred ukazom za vklop. Uporabite ustrezno krmilje 
 
 ## Kosovnica
 
-* 14x povezovalne žice
+* 15x povezovalne žice
 * 3x tipkala
 * 1x Arduino UNO
 * 2x led diodi
@@ -15,3 +15,9 @@ Ukaz za ugasnitev ima prednost pred ukazom za vklop. Uporabite ustrezno krmilje 
 * 2x NPN tranzistor
 * 1x Breadboard
 * 1x USB kabel
+
+### Shematsko vezje:
+![Shematsko vezje](https://cdn.discordapp.com/attachments/364127986590679050/720747763809124453/Screenshot_31.png)
+
+### Breadboard shema:
+![Breadboard shema](https://cdn.discordapp.com/attachments/364127986590679050/720747858491473970/Screenshot_30.png)
